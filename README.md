@@ -14,6 +14,7 @@ B.L.O.C.K. is a decentralized marketplace on the Sepolia testnet that enables us
 
 ## `Project Structure`
 
+
 The project is structured as follows:
 
 - *Bitcoin-games/*: Root directory of the project.

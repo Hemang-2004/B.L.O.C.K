@@ -5,7 +5,7 @@ B.L.O.C.K. is a decentralized marketplace on the Sepolia testnet that enables us
 
 
 
-## `Authors`
+## `Authors`   
 
 - [@Siddharth Vikram](https://github.com/SiddharthVikram068)
 - [@Tanish Pathania](https://github.com/Tanish-pat)

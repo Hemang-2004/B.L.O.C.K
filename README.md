@@ -1,6 +1,6 @@
 # `Welcome to B.L.O.C.K`
 
-B.L.O.C.K. is a decentralized marketplace on the Sepolia testnet that enables users to buy and sell verified products securely and transparently. By leveraging smart contracts and wallet integration, it ensures the authenticity of products and facilitates seamless transactions. This platform is designed for anyone seeking a trustworthy and efficient way to trade products online, from everyday consumers to small business owners. 
+B.L.O.C.K. is a decentralized marketplace on the Sepolia testnet that enables users to buy and sell verified products securely and transparently. By leveraging smart contracts and wallet integration, it ensures the authenticity of products and facilitates seamless transactions. This platform is designed for anyone seeking a trustworthy and efficient way to trade products online, from everyday consumers to small business owners.  
 
 
 

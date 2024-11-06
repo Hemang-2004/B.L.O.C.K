@@ -53,7 +53,7 @@ The project is structured as follows:
 - *...*: Other project files and directories as needed.
 ## `Deployment`
 
-To deploy this project, please follow the given steps:
+To deploy this project, please follow the given steps:    
 
 1. *Clone the repository:*
 
